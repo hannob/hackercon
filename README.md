@@ -16,6 +16,7 @@ A list of free software and IT security related conferences.
 | [RuhrSec](https://www.ruhrsec.de/) | Bochum, Germany | 2017-05-02 | 2017-05-05 |
 | [GPN](https://entropia.de/GPN) | Karlsruhe, Germany | 2017-05-25 | 2017-05-28 |
 | [BerlinSides](http://berlinsides.org/) | Berlin, Germany | 2017-05-26 | 2017-05-28 |
+| [Security Fest](https://www.securityfest.com/) | Gothenburg, Sweden | 2017-06-01 | 2017-06-01 |
 | [PQCrypto](https://pqcrypto.org/) | Utrecht, Netherlands | 2017-06-26 | 2017-06-28 |
 | [RMLL](https://2017.rmll.info/) | Saint-Etienne, France | 2017-07-01 | 2017-07-07 |
 | [Black Hat USA](https://www.blackhat.com/) | Las Vegas, USA | 2017-07-22 | 2017-07-27 |
