@@ -12,6 +12,7 @@ A list of free software and IT security related conferences.
 | [Black Hat Asia](https://www.blackhat.com/asia-17/) | Singapore, Singapore | 2017-03-28 | 2017-03-31 |
 | [Easterhegg](http://www.easterhegg.eu/) | Frankfurt, Germany | 2017-04-14 | 2017-04-17 |
 | [foss-north](http://foss-north.se/) | Gothenburg, Sweden | 2017-04-26 | 2017-04-26 |
+| [AtlSecCon](https://atlseccon.com/) | Halifax, Canada | 2017-04-27 | 2017-04-28 |
 | [RuhrSec](https://www.ruhrsec.de/) | Bochum, Germany | 2017-05-02 | 2017-05-05 |
 | [GPN](https://entropia.de/GPN) | Karlsruhe, Germany | 2017-05-25 | 2017-05-28 |
 | [BerlinSides](http://berlinsides.org/) | Berlin, Germany | 2017-05-26 | 2017-05-28 |
@@ -25,6 +26,7 @@ A list of free software and IT security related conferences.
 | [FrOSCon](https://www.froscon.de/) | Sankt Augustin, Germany | 2017-08-19 | 2017-08-20 |
 | [Bornhack](https://bornhack.dk/) | Bornholm, Denmark | 2017-08-27 | 2017-09-03 |
 | [SEC-T](https://www.sec-t.org/) | Stockholm, Sweden | 2017-09-14 | 2017-09-15 |
+| [Datenspuren](https://www.datenspuren.de/) | Dresden, Germany | 2017-10-21 | 2017-10-22 |
 | [ACM CCS](https://www.sigsac.org/ccs/CCS2017/) | Dallas, USA | 2017-10-30 | 2017-11-03 |
 | [Driving IT](https://universe.ida.dk/driving-it/) | Copenhagen, Denmark | 2017-11-03 | 2017-11-03 |
 | [Nordic IT Security](http://www.nordicitsecurity.com/) | Stockholm, Sweden | 2017-11-07 | 2017-11-07 |
