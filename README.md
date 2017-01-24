@@ -14,6 +14,7 @@ A list of free software and IT security related conferences.
 | [foss-north](http://foss-north.se/) | Gothenburg, Sweden | 2017-04-26 | 2017-04-26 |
 | [AtlSecCon](https://atlseccon.com/) | Halifax, Canada | 2017-04-27 | 2017-04-28 |
 | [RuhrSec](https://www.ruhrsec.de/) | Bochum, Germany | 2017-05-02 | 2017-05-05 |
+| [AppSec EU](https://2017.appsec.eu/) | Belfast, UK | 2017-05-08 | 2017-05-12 |
 | [GPN](https://entropia.de/GPN) | Karlsruhe, Germany | 2017-05-25 | 2017-05-28 |
 | [BerlinSides](http://berlinsides.org/) | Berlin, Germany | 2017-05-26 | 2017-05-28 |
 | [Security Fest](https://www.securityfest.com/) | Gothenburg, Sweden | 2017-06-01 | 2017-06-01 |
@@ -26,7 +27,9 @@ A list of free software and IT security related conferences.
 | [USENIX Security Symposium](https://www.usenix.org/) | Vancouver, Canada | 2018-08-16 | 2018-08-18 |
 | [FrOSCon](https://www.froscon.de/) | Sankt Augustin, Germany | 2017-08-19 | 2017-08-20 |
 | [Bornhack](https://bornhack.dk/) | Bornholm, Denmark | 2017-08-27 | 2017-09-03 |
+| [44CON](https://44con.com/) | London, UK | 2017-09-13 | 2017-09-15 |
 | [SEC-T](https://www.sec-t.org/) | Stockholm, Sweden | 2017-09-14 | 2017-09-15 |
+| [BruCON](http://brucon.org/) | Gent, Belgium | 2017-10-05 | 2017-10-06 |
 | [Datenspuren](https://www.datenspuren.de/) | Dresden, Germany | 2017-10-21 | 2017-10-22 |
 | [ACM CCS](https://www.sigsac.org/ccs/CCS2017/) | Dallas, USA | 2017-10-30 | 2017-11-03 |
 | [Driving IT](https://universe.ida.dk/driving-it/) | Copenhagen, Denmark | 2017-11-03 | 2017-11-03 |
