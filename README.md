@@ -30,6 +30,7 @@ A list of free software and IT security related conferences.
 | [DebConf](https://debconf.org/) | Montreal, Canada | 2017-08-06 | 2017-08-12 |
 | [USENIX Security Symposium](https://www.usenix.org/) | Vancouver, Canada | 2017-08-16 | 2017-08-18 |
 | [FrOSCon](https://www.froscon.de/) | Sankt Augustin, Germany | 2017-08-19 | 2017-08-20 |
+| [AlligatorCon Europe](http://alligatorcon.pl/) | Krakow, Poland | 2017-08-25 | 2017-08-26 |
 | [Bornhack](https://bornhack.dk/) | Bornholm, Denmark | 2017-08-27 | 2017-09-03 |
 | [44CON](https://44con.com/) | London, UK | 2017-09-13 | 2017-09-15 |
 | [SEC-T](https://www.sec-t.org/) | Stockholm, Sweden | 2017-09-14 | 2017-09-15 |
