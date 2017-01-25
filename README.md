@@ -13,6 +13,7 @@ A list of free software and IT security related conferences.
 | [Hack in the Box](https://conference.hitb.org/) | Amsterdam, Netherlands | 2017-04-10 | 2017-04-14 |
 | [Easterhegg](http://www.easterhegg.eu/) | Frankfurt, Germany | 2017-04-14 | 2017-04-17 |
 | [foss-north](http://foss-north.se/) | Gothenburg, Sweden | 2017-04-26 | 2017-04-26 |
+| [IEEE Euro S&P](http://www.ieee-security.org/TC/EuroSP2017/) | Paris, France, 2017-04-26 | 2017-04-28 |
 | [AtlSecCon](https://atlseccon.com/) | Halifax, Canada | 2017-04-27 | 2017-04-28 |
 | [RuhrSec](https://www.ruhrsec.de/) | Bochum, Germany | 2017-05-02 | 2017-05-05 |
 | [AppSec EU](https://2017.appsec.eu/) | Belfast, UK | 2017-05-08 | 2017-05-12 |
@@ -35,6 +36,7 @@ A list of free software and IT security related conferences.
 | [44CON](https://44con.com/) | London, UK | 2017-09-13 | 2017-09-15 |
 | [SEC-T](https://www.sec-t.org/) | Stockholm, Sweden | 2017-09-14 | 2017-09-15 |
 | [BalCCon](https://2k17.balccon.org/) | Novi Sad, Serbian | 2017-09-15 | 2017-09-17 |
+| [BSides Zürich](https://bsideszh.ch/) | Zürich, Switzerland | 2017-09-17 | 2017-09-17 |
 | [BruCON](http://brucon.org/) | Gent, Belgium | 2017-10-05 | 2017-10-06 |
 | [Datenspuren](https://www.datenspuren.de/) | Dresden, Germany | 2017-10-21 | 2017-10-22 |
 | [ACM CCS](https://www.sigsac.org/ccs/CCS2017/) | Dallas, USA | 2017-10-30 | 2017-11-03 |
@@ -44,6 +46,16 @@ A list of free software and IT security related conferences.
 | [RealWorldCrypto](http://www.realworldcrypto.com/) | Zürich, Switzerland | 2018-01-10 | 2018-01-12 |
 | [linux.conf.au](https://lca2018.org/#/home) | Sydney, Australia | 2018-01-22 | 2018-01-26 |
 | [USENIX Security Symposium](https://www.usenix.org/) | Baltimore, USA | 2018-08-15 | 2018-08-17 |
+
+Date unannounced
+================
+
+| Name | Location |
+| --- | --- |
+| [Ruxcon](https://ruxcon.org.au/) | Melbourne, Australia |
+| [Kiwicon](https://www.kiwicon.org/) | Wellington, New Zealand |
+| [MRMCD](https://mrmcd.net/) | Darmstadt, Germany |
+| [34C3](https://events.ccc.de/) | Undecided, Germany |
 
 The list is more or less arbitrary compiled from conferences I know and hear
 about. Naturally this means it has a strong bias towards events in central
