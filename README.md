@@ -10,13 +10,16 @@ A list of free software and IT security related conferences.
 | [Open Source Days](https://opensourcedays.org/) | Copenhagen, Denmark | 2017-03-18 | 2017-03-18 |
 | [Troopers](https://www.troopers.de/) | Heidelberg, Germany | 2017-03-20 | 2017-03-24 |
 | [Black Hat Asia](https://www.blackhat.com/asia-17/) | Singapore, Singapore | 2017-03-28 | 2017-03-31 |
+| [Hack in the Box](https://conference.hitb.org/) | Amsterdam, Netherlands | 2017-04-10 | 2017-04-14 |
 | [Easterhegg](http://www.easterhegg.eu/) | Frankfurt, Germany | 2017-04-14 | 2017-04-17 |
 | [foss-north](http://foss-north.se/) | Gothenburg, Sweden | 2017-04-26 | 2017-04-26 |
 | [AtlSecCon](https://atlseccon.com/) | Halifax, Canada | 2017-04-27 | 2017-04-28 |
 | [RuhrSec](https://www.ruhrsec.de/) | Bochum, Germany | 2017-05-02 | 2017-05-05 |
 | [AppSec EU](https://2017.appsec.eu/) | Belfast, UK | 2017-05-08 | 2017-05-12 |
+| [AusCERT](https://conference.auscert.org.au/) | Gold Goast, Australia | 2017-05-23 | 2017-05-26 |
 | [GPN](https://entropia.de/GPN) | Karlsruhe, Germany | 2017-05-25 | 2017-05-28 |
 | [BerlinSides](http://berlinsides.org/) | Berlin, Germany | 2017-05-26 | 2017-05-28 |
+| [SyScan360](https://www.syscan360.org/) | Seattle, USA | 2017-05-30 | 2017-05-31 |
 | [Security Fest](https://www.securityfest.com/) | Gothenburg, Sweden | 2017-06-01 | 2017-06-01 |
 | [PQCrypto](https://pqcrypto.org/) | Utrecht, Netherlands | 2017-06-26 | 2017-06-28 |
 | [RMLL](https://2017.rmll.info/) | Saint-Etienne, France | 2017-07-01 | 2017-07-07 |
@@ -24,11 +27,13 @@ A list of free software and IT security related conferences.
 | [BSides LV](https://www.bsideslv.org/) | Las Vegas, USA | 2017-07-25 | 2017-07-26 |
 | [Def Con](https://defcon.org/) | Las Vegas, USA | 2017-07-27 | 2017-07-30 |
 | [SHA2017](https://sha2017.org/) | Zeewolde, Netherlands | 2017-08-04 | 2017-08-08 |
-| [USENIX Security Symposium](https://www.usenix.org/) | Vancouver, Canada | 2018-08-16 | 2018-08-18 |
+| [DebConf](https://debconf.org/) | Montreal, Canada | 2017-08-06 | 2017-08-12 |
+| [USENIX Security Symposium](https://www.usenix.org/) | Vancouver, Canada | 2017-08-16 | 2017-08-18 |
 | [FrOSCon](https://www.froscon.de/) | Sankt Augustin, Germany | 2017-08-19 | 2017-08-20 |
 | [Bornhack](https://bornhack.dk/) | Bornholm, Denmark | 2017-08-27 | 2017-09-03 |
 | [44CON](https://44con.com/) | London, UK | 2017-09-13 | 2017-09-15 |
 | [SEC-T](https://www.sec-t.org/) | Stockholm, Sweden | 2017-09-14 | 2017-09-15 |
+| [BalCCon](https://2k17.balccon.org/) | Novi Sad, Serbian | 2017-09-15 | 2017-09-17 |
 | [BruCON](http://brucon.org/) | Gent, Belgium | 2017-10-05 | 2017-10-06 |
 | [Datenspuren](https://www.datenspuren.de/) | Dresden, Germany | 2017-10-21 | 2017-10-22 |
 | [ACM CCS](https://www.sigsac.org/ccs/CCS2017/) | Dallas, USA | 2017-10-30 | 2017-11-03 |
