@@ -36,6 +36,7 @@ A list of free software and IT security related conferences.
 | [Nordic IT Security](http://www.nordicitsecurity.com/) | Stockholm, Sweden | 2017-11-07 | 2017-11-07 |
 | [Black Hat Europe](https://www.blackhat.com/) | London, UK | 2017-12-04 | 2017-12-07 |
 | [RealWorldCrypto](http://www.realworldcrypto.com/) | Zürich, Switzerland | 2018-01-10 | 2018-01-12 |
+| [linux.conf.au](https://lca2018.org/#/home) | Sydney, Australia | 2018-01-22 | 2018-01-26 |
 | [USENIX Security Symposium](https://www.usenix.org/) | Baltimore, USA | 2018-08-15 | 2018-08-17 |
 
 The list is more or less arbitrary compiled from conferences I know and hear
