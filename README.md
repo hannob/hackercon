@@ -56,6 +56,7 @@ Date unannounced
 | [Kiwicon](https://www.kiwicon.org/) | Wellington, New Zealand |
 | [MRMCD](https://mrmcd.net/) | Darmstadt, Germany |
 | [34C3](https://events.ccc.de/) | Undecided, Germany |
+| [Secure 2017](https://secure.edu.pl/) | October, Warsaw, Germany |
 
 The list is more or less arbitrary compiled from conferences I know and hear
 about. Naturally this means it has a strong bias towards events in central
