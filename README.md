@@ -38,6 +38,7 @@ A list of free software and IT security related conferences.
 | [BalCCon](https://2k17.balccon.org/) | Novi Sad, Serbian | 2017-09-15 | 2017-09-17 |
 | [BSides Zürich](https://bsideszh.ch/) | Zürich, Switzerland | 2017-09-17 | 2017-09-17 |
 | [BruCON](http://brucon.org/) | Gent, Belgium | 2017-10-05 | 2017-10-06 |
+| [Hack.lu](http://hack.lu/) | Luxembourg City, Luxembourg | 2017-10-16 | 2017-10-19 |
 | [Datenspuren](https://www.datenspuren.de/) | Dresden, Germany | 2017-10-21 | 2017-10-22 |
 | [ACM CCS](https://www.sigsac.org/ccs/CCS2017/) | Dallas, USA | 2017-10-30 | 2017-11-03 |
 | [Driving IT](https://universe.ida.dk/driving-it/) | Copenhagen, Denmark | 2017-11-03 | 2017-11-03 |
