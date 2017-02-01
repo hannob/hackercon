@@ -17,9 +17,9 @@ A list of free software and IT security related conferences.
 | [AtlSecCon](https://atlseccon.com/) | Halifax, Canada | 2017-04-27 | 2017-04-28 |
 | [RuhrSec](https://www.ruhrsec.de/) | Bochum, Germany | 2017-05-02 | 2017-05-05 |
 | [AppSec EU](https://2017.appsec.eu/) | Belfast, UK | 2017-05-08 | 2017-05-12 |
+| [Hack In Paris](https://hackinparis.com/) | Paris, France | 2017-05-22 | 2017-05-23 |
 | [AusCERT](https://conference.auscert.org.au/) | Gold Goast, Australia | 2017-05-23 | 2017-05-26 |
-| [Hack In Paris](https://hackinparis.com/) | Disneyland Paris | 2017-05-22 | 2017-05-23 |
-| [Nuit Du Hack](https://nuitduhack.com/en/) | Disneyland Paris | 2017-05-24 | 2017-05-25 |
+| [Nuit Du Hack](https://nuitduhack.com/en/) | Paris, France | 2017-05-24 | 2017-05-25 |
 | [GPN](https://entropia.de/GPN) | Karlsruhe, Germany | 2017-05-25 | 2017-05-28 |
 | [BerlinSides](http://berlinsides.org/) | Berlin, Germany | 2017-05-26 | 2017-05-28 |
 | [SyScan360](https://www.syscan360.org/) | Seattle, USA | 2017-05-30 | 2017-05-31 |
