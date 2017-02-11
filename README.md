@@ -10,6 +10,7 @@ A list of free software and IT security related conferences.
 | [Open Source Days](https://opensourcedays.org/) | Copenhagen, Denmark | 2017-03-18 | 2017-03-18 |
 | [Troopers](https://www.troopers.de/) | Heidelberg, Germany | 2017-03-20 | 2017-03-24 |
 | [Black Hat Asia](https://www.blackhat.com/asia-17/) | Singapore, Singapore | 2017-03-28 | 2017-03-31 |
+| [BSides Munich](http://bsidesmunich.org) | Munich, Germany | 2017-04-03 | 2017-04-03 |
 | [newline](https://0x20.be/newline/2017/) | Ghent, Belgium | 2017-04-07 | 2017-04-09 |
 | [Hack in the Box](https://conference.hitb.org/) | Amsterdam, Netherlands | 2017-04-10 | 2017-04-14 |
 | [Easterhegg](http://www.easterhegg.eu/) | Frankfurt, Germany | 2017-04-14 | 2017-04-17 |
