@@ -4,6 +4,7 @@ A list of free software and IT security related conferences.
 
 | Name | Location | Start | End |
 | --- | --- | --- | --- |
+| [SCALE](https://socallinuxexpo.org/) | Pasadena, California, USA | 2017-03-02 | 2017-03-05 |
 | [Chemnitzer Linux-Tage](https://chemnitzer.linux-tage.de/) | Chemnitz, Germany | 2017-03-11 | 2017-03-12 |
 | [CanSecWest](https://cansecwest.com/) | Vancouver, Canada | 2017-03-15 | 2017-03-17 |
 | [FOSSASIA](https://fossasia.org/) | Singapore, Singapore | 2017-03-17 | 2017-03-19 |
@@ -69,6 +70,7 @@ Date unannounced
 | [MRMCD](https://mrmcd.net/) | Darmstadt, Germany |
 | [34C3](https://events.ccc.de/) | Undecided, Germany |
 | [Secure 2017](https://secure.edu.pl/) | October, Warsaw, Germany |
+| [Texas Linux Fest](https://www.texaslinuxfest.org/) | Austin, TX, USA | 
 
 old
 ===
