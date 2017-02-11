@@ -27,6 +27,7 @@ A list of free software and IT security related conferences.
 | [BerlinSides](http://berlinsides.org/) | Berlin, Germany | 2017-05-26 | 2017-05-28 |
 | [SyScan360](https://www.syscan360.org/) | Seattle, USA | 2017-05-30 | 2017-05-31 |
 | [Security Fest](https://www.securityfest.com/) | Gothenburg, Sweden | 2017-06-01 | 2017-06-01 |
+| [BSDCan](https://www.bsdcan.org/2017/) | Ottawa, Ontario, Canada | 2017-06-09 | 2017-06-10 |
 | [PQCrypto](https://pqcrypto.org/) | Utrecht, Netherlands | 2017-06-26 | 2017-06-28 |
 | [RMLL](https://2017.rmll.info/) | Saint-Etienne, France | 2017-07-01 | 2017-07-07 |
 | [Black Hat USA](https://www.blackhat.com/) | Las Vegas, USA | 2017-07-22 | 2017-07-27 |
@@ -40,6 +41,7 @@ A list of free software and IT security related conferences.
 | [FrOSCon](https://www.froscon.de/) | Sankt Augustin, Germany | 2017-08-19 | 2017-08-20 |
 | [AlligatorCon Europe](http://alligatorcon.pl/) | Krakow, Poland | 2017-08-25 | 2017-08-26 |
 | [Bornhack](https://bornhack.dk/) | Bornholm, Denmark | 2017-08-27 | 2017-09-03 |
+| [vBSDcon](https://www.vbsdcon.com/) | Reston, Virginia, USA | 2017-09-08 | 2017-09-09 |
 | [44CON](https://44con.com/) | London, UK | 2017-09-13 | 2017-09-15 |
 | [SEC-T](https://www.sec-t.org/) | Stockholm, Sweden | 2017-09-14 | 2017-09-15 |
 | [BalCCon](https://2k17.balccon.org/) | Novi Sad, Serbian | 2017-09-15 | 2017-09-17 |
