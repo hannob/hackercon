@@ -46,6 +46,7 @@ A list of free software and IT security related conferences.
 | [SEC-T](https://www.sec-t.org/) | Stockholm, Sweden | 2017-09-14 | 2017-09-15 |
 | [BalCCon](https://2k17.balccon.org/) | Novi Sad, Serbian | 2017-09-15 | 2017-09-17 |
 | [BSides Zürich](https://bsideszh.ch/) | Zürich, Switzerland | 2017-09-17 | 2017-09-17 |
+| [EuroBSDCon](https://2017.eurobsdcon.org/) | Paris, France | 2017-09-21 | 2017-09-24 |
 | [BruCON](http://brucon.org/) | Gent, Belgium | 2017-10-05 | 2017-10-06 |
 | [Hack.lu](http://hack.lu/) | Luxembourg City, Luxembourg | 2017-10-16 | 2017-10-19 |
 | [Datenspuren](https://www.datenspuren.de/) | Dresden, Germany | 2017-10-21 | 2017-10-22 |
