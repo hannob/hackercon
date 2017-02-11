@@ -15,7 +15,7 @@ A list of free software and IT security related conferences.
 | [Easterhegg](http://www.easterhegg.eu/) | Frankfurt, Germany | 2017-04-14 | 2017-04-17 |
 | [Augsburger Linux-Infotag](https://www.luga.de/Aktionen/LIT-2017/) | Augsburg, Germany | 2017-04-22 | 2017-04-22 |
 | [foss-north](http://foss-north.se/) | Gothenburg, Sweden | 2017-04-26 | 2017-04-26 |
-| [IEEE Euro S&P](http://www.ieee-security.org/TC/EuroSP2017/) | Paris, France, 2017-04-26 | 2017-04-28 |
+| [IEEE Euro S&P](http://www.ieee-security.org/TC/EuroSP2017/) | Paris, France | 2017-04-26 | 2017-04-28 |
 | [AtlSecCon](https://atlseccon.com/) | Halifax, Canada | 2017-04-27 | 2017-04-28 |
 | [RuhrSec](https://www.ruhrsec.de/) | Bochum, Germany | 2017-05-02 | 2017-05-05 |
 | [OSCON](https://conferences.oreilly.com/oscon/oscon-tx) | Austin/Texas, USA | 2017-05-08 | 2017-05-11 |
