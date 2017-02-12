@@ -14,6 +14,7 @@ A list of free software and IT security related conferences.
 | [Troopers](https://www.troopers.de/) | Heidelberg, Germany | 2017-03-20 | 2017-03-24 |
 | [Black Hat Asia](https://www.blackhat.com/asia-17/) | Singapore, Singapore | 2017-03-28 | 2017-03-31 |
 | [BSides Munich](http://bsidesmunich.org) | Munich, Germany | 2017-04-03 | 2017-04-03 |
+| [Infiltrate](https://infiltratecon.com/) | Florida, USA | 2017-04-06 | 2017-04-07 |
 | [newline](https://0x20.be/newline/2017/) | Ghent, Belgium | 2017-04-07 | 2017-04-09 |
 | [Hack in the Box](https://conference.hitb.org/) | Amsterdam, Netherlands | 2017-04-10 | 2017-04-14 |
 | [Easterhegg](http://www.easterhegg.eu/) | Frankfurt, Germany | 2017-04-14 | 2017-04-17 |
@@ -85,7 +86,8 @@ old
 
 | Name | Location | Start | End |
 | --- | --- | --- | --- |
-| [Enigma](https://www.usenix.org/conference/enigma2017/) | California, USA | 2017-01-30 | 2017-02-01 |
+| [ShmooCon](http://shmoocon.org/) | California, USA | 2017-01-30 | 2017-02-01 |
+| [Enigma](https://www.usenix.org/conference/enigma2017/) | Washington D.C., USA | 2017-01-13 | 2017-01-15 |
 | [FOSDEM](https://fosdem.org/) | Brussels, Belgium | 2017-02-04 | 2017-02-05 |
 
 The list is more or less arbitrary compiled from conferences I know and hear
