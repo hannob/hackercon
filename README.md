@@ -53,6 +53,7 @@ A list of free software and IT security related conferences.
 | [SEC-T](https://www.sec-t.org/) | Stockholm, Sweden | 2017-09-14 | 2017-09-15 |
 | [BalCCon](https://2k17.balccon.org/) | Novi Sad, Serbian | 2017-09-15 | 2017-09-17 |
 | [BSides Zürich](https://bsideszh.ch/) | Zürich, Switzerland | 2017-09-17 | 2017-09-17 |
+| [OWASP AppSec USA](https://2017.appsecusa.org/) | Florida, USA | 2017-09-19 | 2017-09-22 |
 | [EuroBSDCon](https://2017.eurobsdcon.org/) | Paris, France | 2017-09-21 | 2017-09-24 |
 | [BruCON](http://brucon.org/) | Gent, Belgium | 2017-10-05 | 2017-10-06 |
 | [Hack.lu](http://hack.lu/) | Luxembourg City, Luxembourg | 2017-10-16 | 2017-10-19 |
@@ -84,6 +85,7 @@ old
 
 | Name | Location | Start | End |
 | --- | --- | --- | --- |
+| [Enigma](https://www.usenix.org/conference/enigma2017/) | California, USA | 2017-01-30 | 2017-02-01 |
 | [FOSDEM](https://fosdem.org/) | Brussels, Belgium | 2017-02-04 | 2017-02-05 |
 
 The list is more or less arbitrary compiled from conferences I know and hear
