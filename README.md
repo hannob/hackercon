@@ -5,12 +5,14 @@ A list of free software and IT security related conferences.
 | Name | Location | Start | End |
 | --- | --- | --- | --- |
 | [SCALE](https://socallinuxexpo.org/) | Pasadena, California, USA | 2017-03-02 | 2017-03-05 |
+| [AsiaBSDCon](https://2017.asiabsdcon.org/) | Tokyo, Japan | 2017-03-09 | 2017-03-12 |
 | [Chemnitzer Linux-Tage](https://chemnitzer.linux-tage.de/) | Chemnitz, Germany | 2017-03-11 | 2017-03-12 |
 | [CanSecWest](https://cansecwest.com/) | Vancouver, Canada | 2017-03-15 | 2017-03-17 |
 | [FOSSASIA](https://fossasia.org/) | Singapore, Singapore | 2017-03-17 | 2017-03-19 |
 | [Open Source Days](https://opensourcedays.org/) | Copenhagen, Denmark | 2017-03-18 | 2017-03-18 |
 | [Troopers](https://www.troopers.de/) | Heidelberg, Germany | 2017-03-20 | 2017-03-24 |
 | [Black Hat Asia](https://www.blackhat.com/asia-17/) | Singapore, Singapore | 2017-03-28 | 2017-03-31 |
+| [BSides Munich](http://bsidesmunich.org) | Munich, Germany | 2017-04-03 | 2017-04-03 |
 | [newline](https://0x20.be/newline/2017/) | Ghent, Belgium | 2017-04-07 | 2017-04-09 |
 | [Hack in the Box](https://conference.hitb.org/) | Amsterdam, Netherlands | 2017-04-10 | 2017-04-14 |
 | [Easterhegg](http://www.easterhegg.eu/) | Frankfurt, Germany | 2017-04-14 | 2017-04-17 |
