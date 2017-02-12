@@ -31,6 +31,7 @@ A list of free software and IT security related conferences.
 | [SyScan360](https://www.syscan360.org/) | Seattle, USA | 2017-05-30 | 2017-05-31 |
 | [Security Fest](https://www.securityfest.com/) | Gothenburg, Sweden | 2017-06-01 | 2017-06-01 |
 | [BSDCan](https://www.bsdcan.org/2017/) | Ottawa, Ontario, Canada | 2017-06-09 | 2017-06-10 |
+| [RECON 2017](https://recon.cx/2017/montreal/) | Montreal, Québec, Canada | 2017-06-16 | 2017-06-18 |
 | [PQCrypto](https://pqcrypto.org/) | Utrecht, Netherlands | 2017-06-26 | 2017-06-28 |
 | [RMLL](https://2017.rmll.info/) | Saint-Etienne, France | 2017-07-01 | 2017-07-07 |
 | [Black Hat USA](https://www.blackhat.com/) | Las Vegas, USA | 2017-07-22 | 2017-07-27 |
