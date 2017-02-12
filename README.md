@@ -6,6 +6,7 @@ A list of free software and IT security related conferences.
 | --- | --- | --- | --- |
 | [SCALE](https://socallinuxexpo.org/) | Pasadena, California, USA | 2017-03-02 | 2017-03-05 |
 | [AsiaBSDCon](https://2017.asiabsdcon.org/) | Tokyo, Japan | 2017-03-09 | 2017-03-12 |
+| [BSides Ljubljana](https://bsidesljubljana.si/) | Ljubljana, Slovenia | 2017-03-10 | 2017-03-10 |
 | [Chemnitzer Linux-Tage](https://chemnitzer.linux-tage.de/) | Chemnitz, Germany | 2017-03-11 | 2017-03-12 |
 | [CanSecWest](https://cansecwest.com/) | Vancouver, Canada | 2017-03-15 | 2017-03-17 |
 | [FOSSASIA](https://fossasia.org/) | Singapore, Singapore | 2017-03-17 | 2017-03-19 |
@@ -24,7 +25,9 @@ A list of free software and IT security related conferences.
 | [OSCON](https://conferences.oreilly.com/oscon/oscon-tx) | Austin/Texas, USA | 2017-05-08 | 2017-05-11 |
 | [AppSec EU](https://2017.appsec.eu/) | Belfast, UK | 2017-05-08 | 2017-05-11 |
 | [Hack In Paris](https://hackinparis.com/) | Paris, France | 2017-05-22 | 2017-05-23 |
+| [PHDays](http://www.phdays.com/) | Mosco, Russia | 2017-05-23 | 2017-05-24 |
 | [AusCERT](https://conference.auscert.org.au/) | Gold Goast, Australia | 2017-05-23 | 2017-05-26 |
+| [PGCon](https://www.pgcon.org/) | Ottawa, Canada | 2017-05-23 | 2017-05-26 |
 | [Nuit Du Hack](https://nuitduhack.com/en/) | Paris, France | 2017-05-24 | 2017-05-25 |
 | [GPN](https://entropia.de/GPN) | Karlsruhe, Germany | 2017-05-25 | 2017-05-28 |
 | [BerlinSides](http://berlinsides.org/) | Berlin, Germany | 2017-05-26 | 2017-05-28 |
