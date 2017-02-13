@@ -14,6 +14,7 @@ A list of free software and IT security related conferences.
 | [Troopers](https://www.troopers.de/) | Heidelberg, Germany | 2017-03-20 | 2017-03-24 |
 | [Black Hat Asia](https://www.blackhat.com/asia-17/) | Singapore, Singapore | 2017-03-28 | 2017-03-31 |
 | [BSides Munich](http://bsidesmunich.org) | Munich, Germany | 2017-04-03 | 2017-04-03 |
+| [Infiltrate](https://infiltratecon.com/) | Florida, USA | 2017-04-06 | 2017-04-07 |
 | [newline](https://0x20.be/newline/2017/) | Ghent, Belgium | 2017-04-07 | 2017-04-09 |
 | [Hack in the Box](https://conference.hitb.org/) | Amsterdam, Netherlands | 2017-04-10 | 2017-04-14 |
 | [Easterhegg](http://www.easterhegg.eu/) | Frankfurt, Germany | 2017-04-14 | 2017-04-17 |
@@ -53,6 +54,7 @@ A list of free software and IT security related conferences.
 | [SEC-T](https://www.sec-t.org/) | Stockholm, Sweden | 2017-09-14 | 2017-09-15 |
 | [BalCCon](https://2k17.balccon.org/) | Novi Sad, Serbian | 2017-09-15 | 2017-09-17 |
 | [BSides Zürich](https://bsideszh.ch/) | Zürich, Switzerland | 2017-09-17 | 2017-09-17 |
+| [OWASP AppSec USA](https://2017.appsecusa.org/) | Florida, USA | 2017-09-19 | 2017-09-22 |
 | [EuroBSDCon](https://2017.eurobsdcon.org/) | Paris, France | 2017-09-21 | 2017-09-24 |
 | [BruCON](http://brucon.org/) | Gent, Belgium | 2017-10-05 | 2017-10-06 |
 | [Hack.lu](http://hack.lu/) | Luxembourg City, Luxembourg | 2017-10-16 | 2017-10-19 |
@@ -84,6 +86,8 @@ old
 
 | Name | Location | Start | End |
 | --- | --- | --- | --- |
+| [ShmooCon](http://shmoocon.org/) | California, USA | 2017-01-30 | 2017-02-01 |
+| [Enigma](https://www.usenix.org/conference/enigma2017/) | Washington D.C., USA | 2017-01-13 | 2017-01-15 |
 | [FOSDEM](https://fosdem.org/) | Brussels, Belgium | 2017-02-04 | 2017-02-05 |
 
 The list is more or less arbitrary compiled from conferences I know and hear
