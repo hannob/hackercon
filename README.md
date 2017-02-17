@@ -12,7 +12,7 @@ A list of free software and IT security related conferences.
 | [FOSSASIA](https://fossasia.org/) | Singapore, Singapore | 2017-03-17 | 2017-03-19 |
 | [Open Source Days](https://opensourcedays.org/) | Copenhagen, Denmark | 2017-03-18 | 2017-03-18 |
 | [Troopers](https://www.troopers.de/) | Heidelberg, Germany | 2017-03-20 | 2017-03-24 |
-| [GUUG FFG](https://www.guug.de/veranstaltungen/ffg2017/) Darmstadt, Germany | 2017-03-21 | 2017-03-24 |
+| [GUUG FFG](https://www.guug.de/veranstaltungen/ffg2017/) | Darmstadt, Germany | 2017-03-21 | 2017-03-24 |
 | [Black Hat Asia](https://www.blackhat.com/asia-17/) | Singapore, Singapore | 2017-03-28 | 2017-03-31 |
 | [BSides Munich](http://bsidesmunich.org) | Munich, Germany | 2017-04-03 | 2017-04-03 |
 | [Infiltrate](https://infiltratecon.com/) | Florida, USA | 2017-04-06 | 2017-04-07 |
