@@ -4,7 +4,6 @@ A list of free software and IT security related conferences.
 
 | Name | Location | Start | End |
 | --- | --- | --- | --- |
-| [SCALE](https://socallinuxexpo.org/) | Pasadena, California, USA | 2017-03-02 | 2017-03-05 |
 | [AsiaBSDCon](https://2017.asiabsdcon.org/) | Tokyo, Japan | 2017-03-09 | 2017-03-12 |
 | [BSides Ljubljana](https://bsidesljubljana.si/) | Ljubljana, Slovenia | 2017-03-10 | 2017-03-10 |
 | [Chemnitzer Linux-Tage](https://chemnitzer.linux-tage.de/) | Chemnitz, Germany | 2017-03-11 | 2017-03-12 |
@@ -39,6 +38,7 @@ A list of free software and IT security related conferences.
 | [RECON 2017](https://recon.cx/2017/montreal/) | Montreal, Québec, Canada | 2017-06-16 | 2017-06-18 |
 | [PQCrypto](https://pqcrypto.org/) | Utrecht, Netherlands | 2017-06-26 | 2017-06-28 |
 | [RMLL](https://2017.rmll.info/) | Saint-Etienne, France | 2017-07-01 | 2017-07-07 |
+| [ZeTeCo](https://wiki.zeteco.ch/) | Schaffhausen, Switzerland | 2017-07-21 | 2017-07-24 |
 | [Black Hat USA](https://www.blackhat.com/) | Las Vegas, USA | 2017-07-22 | 2017-07-27 |
 | [BSides LV](https://www.bsideslv.org/) | Las Vegas, USA | 2017-07-25 | 2017-07-26 |
 | [Def Con](https://defcon.org/) | Las Vegas, USA | 2017-07-27 | 2017-07-30 |
@@ -58,12 +58,14 @@ A list of free software and IT security related conferences.
 | [OWASP AppSec USA](https://2017.appsecusa.org/) | Florida, USA | 2017-09-19 | 2017-09-22 |
 | [EuroBSDCon](https://2017.eurobsdcon.org/) | Paris, France | 2017-09-21 | 2017-09-24 |
 | [BruCON](http://brucon.org/) | Gent, Belgium | 2017-10-05 | 2017-10-06 |
+| [VCFB](https://vcfb.de/) | Berlin, Germany | 2017-10-07 | 2017-10-08 |
 | [Hack.lu](http://hack.lu/) | Luxembourg City, Luxembourg | 2017-10-16 | 2017-10-19 |
 | [Datenspuren](https://www.datenspuren.de/) | Dresden, Germany | 2017-10-21 | 2017-10-22 |
 | [ACM CCS](https://www.sigsac.org/ccs/CCS2017/) | Dallas, USA | 2017-10-30 | 2017-11-03 |
 | [Driving IT](https://universe.ida.dk/driving-it/) | Copenhagen, Denmark | 2017-11-03 | 2017-11-03 |
 | [OpenRheinRuhr](https://openrheinruhr.de/) | Oberhausen, Germany | 2017-11-04 | 2017-11-05 |
 | [Nordic IT Security](http://www.nordicitsecurity.com/) | Stockholm, Sweden | 2017-11-07 | 2017-11-07 |
+| [Øredev](http://oredev.org/) | Malmö, Sweden | 2017-11-06 | 2017-11-07 |
 | [T-DOSE](http://t-dose.org/) | Eindhoven, Netherlands | 2017-11-11 | 2017-11-12 |
 | [Black Hat Europe](https://www.blackhat.com/) | London, UK | 2017-12-04 | 2017-12-07 |
 | [RealWorldCrypto](http://www.realworldcrypto.com/) | Zürich, Switzerland | 2018-01-10 | 2018-01-12 |
@@ -90,6 +92,7 @@ old
 | [ShmooCon](http://shmoocon.org/) | California, USA | 2017-01-30 | 2017-02-01 |
 | [Enigma](https://www.usenix.org/conference/enigma2017/) | Washington D.C., USA | 2017-01-13 | 2017-01-15 |
 | [FOSDEM](https://fosdem.org/) | Brussels, Belgium | 2017-02-04 | 2017-02-05 |
+| [SCALE](https://socallinuxexpo.org/) | Pasadena, California, USA | 2017-03-02 | 2017-03-05 |
 
 The list is more or less arbitrary compiled from conferences I know and hear
 about. Naturally this means it has a strong bias towards events in central
