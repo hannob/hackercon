@@ -57,6 +57,7 @@ A list of free software and IT security related conferences.
 | [BSides Zürich](https://bsideszh.ch/) | Zürich, Switzerland | 2017-09-17 | 2017-09-17 |
 | [OWASP AppSec USA](https://2017.appsecusa.org/) | Florida, USA | 2017-09-19 | 2017-09-22 |
 | [EuroBSDCon](https://2017.eurobsdcon.org/) | Paris, France | 2017-09-21 | 2017-09-24 |
+| [BSides Zurich](https://bsideszh.ch/) | Zurich, Switzerland | 2017-09-23 | 2017-09-23 |
 | [BruCON](http://brucon.org/) | Gent, Belgium | 2017-10-05 | 2017-10-06 |
 | [VCFB](https://vcfb.de/) | Berlin, Germany | 2017-10-07 | 2017-10-08 |
 | [Hack.lu](http://hack.lu/) | Luxembourg City, Luxembourg | 2017-10-16 | 2017-10-19 |
