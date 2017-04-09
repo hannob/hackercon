@@ -71,6 +71,7 @@ A list of free software and IT security related conferences.
 | [Black Hat Europe](https://www.blackhat.com/) | London, UK | 2017-12-04 | 2017-12-07 |
 | [RealWorldCrypto](http://www.realworldcrypto.com/) | Zürich, Switzerland | 2018-01-10 | 2018-01-12 |
 | [linux.conf.au](https://lca2018.org/#/home) | Sydney, Australia | 2018-01-22 | 2018-01-26 |
+| [OffensiveCon](https://www.offensivecon.org/) | Berlin, Germany | 2018-02-12 | 2018-02-17 |
 | [USENIX Security Symposium](https://www.usenix.org/) | Baltimore, USA | 2018-08-15 | 2018-08-17 |
 
 Date unannounced
