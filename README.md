@@ -4,21 +4,8 @@ A list of free software and IT security related conferences.
 
 | Name | Location | Start | End |
 | --- | --- | --- | --- |
-| [AsiaBSDCon](https://2017.asiabsdcon.org/) | Tokyo, Japan | 2017-03-09 | 2017-03-12 |
-| [BSides Ljubljana](https://bsidesljubljana.si/) | Ljubljana, Slovenia | 2017-03-10 | 2017-03-10 |
-| [Chemnitzer Linux-Tage](https://chemnitzer.linux-tage.de/) | Chemnitz, Germany | 2017-03-11 | 2017-03-12 |
-| [CanSecWest](https://cansecwest.com/) | Vancouver, Canada | 2017-03-15 | 2017-03-17 |
-| [FOSSASIA](https://fossasia.org/) | Singapore, Singapore | 2017-03-17 | 2017-03-19 |
-| [Open Source Days](https://opensourcedays.org/) | Copenhagen, Denmark | 2017-03-18 | 2017-03-18 |
-| [Troopers](https://www.troopers.de/) | Heidelberg, Germany | 2017-03-20 | 2017-03-24 |
-| [GUUG FFG](https://www.guug.de/veranstaltungen/ffg2017/) | Darmstadt, Germany | 2017-03-21 | 2017-03-24 |
-| [Black Hat Asia](https://www.blackhat.com/asia-17/) | Singapore, Singapore | 2017-03-28 | 2017-03-31 |
-| [BSides Munich](http://bsidesmunich.org) | Munich, Germany | 2017-04-03 | 2017-04-03 |
-| [Infiltrate](https://infiltratecon.com/) | Florida, USA | 2017-04-06 | 2017-04-07 |
-| [newline](https://0x20.be/newline/2017/) | Ghent, Belgium | 2017-04-07 | 2017-04-09 |
-| [Hack in the Box](https://conference.hitb.org/) | Amsterdam, Netherlands | 2017-04-10 | 2017-04-14 |
-| [Easterhegg](http://www.easterhegg.eu/) | Frankfurt, Germany | 2017-04-14 | 2017-04-17 |
 | [Augsburger Linux-Infotag](https://www.luga.de/Aktionen/LIT-2017/) | Augsburg, Germany | 2017-04-22 | 2017-04-22 |
+| [Norcon](http://norcon.info/) | Chico, USA | 2017-04-22 | 2017-04-22 |
 | [foss-north](http://foss-north.se/) | Gothenburg, Sweden | 2017-04-26 | 2017-04-26 |
 | [IEEE Euro S&P](http://www.ieee-security.org/TC/EuroSP2017/) | Paris, France | 2017-04-26 | 2017-04-28 |
 | [AtlSecCon](https://atlseccon.com/) | Halifax, Canada | 2017-04-27 | 2017-04-28 |
@@ -34,9 +21,12 @@ A list of free software and IT security related conferences.
 | [BerlinSides](http://berlinsides.org/) | Berlin, Germany | 2017-05-26 | 2017-05-28 |
 | [SyScan360](https://www.syscan360.org/) | Seattle, USA | 2017-05-30 | 2017-05-31 |
 | [Security Fest](https://www.securityfest.com/) | Gothenburg, Sweden | 2017-06-01 | 2017-06-01 |
+| [WarCon](http://warcon.pl/) | Warsaw, Poland | 2017-06-02 | 2017-06-03 |
 | [BSDCan](https://www.bsdcan.org/2017/) | Ottawa, Ontario, Canada | 2017-06-09 | 2017-06-10 |
 | [RECON 2017](https://recon.cx/2017/montreal/) | Montreal, Québec, Canada | 2017-06-16 | 2017-06-18 |
+| [CoSin](https://www.cosin.ch/) | Biel, Switzerland | 2017-06-16 | 2017-06-18 |
 | [PQCrypto](https://pqcrypto.org/) | Utrecht, Netherlands | 2017-06-26 | 2017-06-28 |
+| [Groden](https://openlab-augsburg.de/groden17/) | Peißenberg, Germany | 2017-06-30 | 2017-07-02 |
 | [RMLL](https://2017.rmll.info/) | Saint-Etienne, France | 2017-07-01 | 2017-07-07 |
 | [ZeTeCo](https://wiki.zeteco.ch/) | Schaffhausen, Switzerland | 2017-07-21 | 2017-07-24 |
 | [Black Hat USA](https://www.blackhat.com/) | Las Vegas, USA | 2017-07-22 | 2017-07-27 |
@@ -62,6 +52,7 @@ A list of free software and IT security related conferences.
 | [VCFB](https://vcfb.de/) | Berlin, Germany | 2017-10-07 | 2017-10-08 |
 | [Hack.lu](http://hack.lu/) | Luxembourg City, Luxembourg | 2017-10-16 | 2017-10-19 |
 | [Datenspuren](https://www.datenspuren.de/) | Dresden, Germany | 2017-10-21 | 2017-10-22 |
+| [Ruxcon](https://ruxcon.org.au/) | Melbourne, Australia | 2017-10-21 | 2017-10-22 |
 | [ACM CCS](https://www.sigsac.org/ccs/CCS2017/) | Dallas, USA | 2017-10-30 | 2017-11-03 |
 | [Driving IT](https://universe.ida.dk/driving-it/) | Copenhagen, Denmark | 2017-11-03 | 2017-11-03 |
 | [OpenRheinRuhr](https://openrheinruhr.de/) | Oberhausen, Germany | 2017-11-04 | 2017-11-05 |
@@ -72,6 +63,7 @@ A list of free software and IT security related conferences.
 | [RealWorldCrypto](http://www.realworldcrypto.com/) | Zürich, Switzerland | 2018-01-10 | 2018-01-12 |
 | [linux.conf.au](https://lca2018.org/#/home) | Sydney, Australia | 2018-01-22 | 2018-01-26 |
 | [OffensiveCon](https://www.offensivecon.org/) | Berlin, Germany | 2018-02-12 | 2018-02-17 |
+| [dknog](http://dknog.dk/) | Copenhagen, Denmark | 2018-03-08 | 2018-03-09 |
 | [USENIX Security Symposium](https://www.usenix.org/) | Baltimore, USA | 2018-08-15 | 2018-08-17 |
 
 Date unannounced
@@ -79,7 +71,6 @@ Date unannounced
 
 | Name | Location |
 | --- | --- |
-| [Ruxcon](https://ruxcon.org.au/) | Melbourne, Australia |
 | [Kiwicon](https://www.kiwicon.org/) | Wellington, New Zealand |
 | [MRMCD](https://mrmcd.net/) | Darmstadt, Germany |
 | [34C3](https://events.ccc.de/) | Undecided, Germany |
@@ -95,6 +86,20 @@ old
 | [Enigma](https://www.usenix.org/conference/enigma2017/) | Washington D.C., USA | 2017-01-13 | 2017-01-15 |
 | [FOSDEM](https://fosdem.org/) | Brussels, Belgium | 2017-02-04 | 2017-02-05 |
 | [SCALE](https://socallinuxexpo.org/) | Pasadena, California, USA | 2017-03-02 | 2017-03-05 |
+| [AsiaBSDCon](https://2017.asiabsdcon.org/) | Tokyo, Japan | 2017-03-09 | 2017-03-12 |
+| [BSides Ljubljana](https://bsidesljubljana.si/) | Ljubljana, Slovenia | 2017-03-10 | 2017-03-10 |
+| [Chemnitzer Linux-Tage](https://chemnitzer.linux-tage.de/) | Chemnitz, Germany | 2017-03-11 | 2017-03-12 |
+| [CanSecWest](https://cansecwest.com/) | Vancouver, Canada | 2017-03-15 | 2017-03-17 |
+| [FOSSASIA](https://fossasia.org/) | Singapore, Singapore | 2017-03-17 | 2017-03-19 |
+| [Open Source Days](https://opensourcedays.org/) | Copenhagen, Denmark | 2017-03-18 | 2017-03-18 |
+| [Troopers](https://www.troopers.de/) | Heidelberg, Germany | 2017-03-20 | 2017-03-24 |
+| [GUUG FFG](https://www.guug.de/veranstaltungen/ffg2017/) | Darmstadt, Germany | 2017-03-21 | 2017-03-24 |
+| [Black Hat Asia](https://www.blackhat.com/asia-17/) | Singapore, Singapore | 2017-03-28 | 2017-03-31 |
+| [BSides Munich](http://bsidesmunich.org) | Munich, Germany | 2017-04-03 | 2017-04-03 |
+| [Infiltrate](https://infiltratecon.com/) | Florida, USA | 2017-04-06 | 2017-04-07 |
+| [newline](https://0x20.be/newline/2017/) | Ghent, Belgium | 2017-04-07 | 2017-04-09 |
+| [Hack in the Box](https://conference.hitb.org/) | Amsterdam, Netherlands | 2017-04-10 | 2017-04-14 |
+| [Easterhegg](http://www.easterhegg.eu/) | Frankfurt, Germany | 2017-04-14 | 2017-04-17 |
 
 The list is more or less arbitrary compiled from conferences I know and hear
 about. Naturally this means it has a strong bias towards events in central
