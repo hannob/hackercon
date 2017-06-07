@@ -40,6 +40,7 @@ A list of free software and IT security related conferences.
 | [FrOSCon](https://www.froscon.de/) | Sankt Augustin, Germany | 2017-08-19 | 2017-08-20 |
 | [AlligatorCon Europe](http://alligatorcon.pl/) | Krakow, Poland | 2017-08-25 | 2017-08-26 |
 | [Bornhack](https://bornhack.dk/) | Bornholm, Denmark | 2017-08-27 | 2017-09-03 |
+| [MRMCD](https://2017.mrmcd.net/) | Darmstadt, Germany | 2017-09-01 | 2017-09-03 |
 | [vBSDcon](https://www.vbsdcon.com/) | Reston, Virginia, USA | 2017-09-08 | 2017-09-09 |
 | [44CON](https://44con.com/) | London, UK | 2017-09-13 | 2017-09-15 |
 | [SEC-T](https://www.sec-t.org/) | Stockholm, Sweden | 2017-09-14 | 2017-09-15 |
@@ -60,6 +61,7 @@ A list of free software and IT security related conferences.
 | [Øredev](http://oredev.org/) | Malmö, Sweden | 2017-11-06 | 2017-11-07 |
 | [T-DOSE](http://t-dose.org/) | Eindhoven, Netherlands | 2017-11-11 | 2017-11-12 |
 | [Black Hat Europe](https://www.blackhat.com/) | London, UK | 2017-12-04 | 2017-12-07 |
+| [34C3](https://events.ccc.de/) | Leipzig, Germany | 2017-12-27 | 2017-12-30 |
 | [RealWorldCrypto](http://www.realworldcrypto.com/) | Zürich, Switzerland | 2018-01-10 | 2018-01-12 |
 | [linux.conf.au](https://lca2018.org/#/home) | Sydney, Australia | 2018-01-22 | 2018-01-26 |
 | [OffensiveCon](https://www.offensivecon.org/) | Berlin, Germany | 2018-02-12 | 2018-02-17 |
@@ -72,8 +74,6 @@ Date unannounced
 | Name | Location |
 | --- | --- |
 | [Kiwicon](https://www.kiwicon.org/) | Wellington, New Zealand |
-| [MRMCD](https://mrmcd.net/) | Darmstadt, Germany |
-| [34C3](https://events.ccc.de/) | Undecided, Germany |
 | [Secure 2017](https://secure.edu.pl/) | October, Warsaw, Germany |
 | [Texas Linux Fest](https://www.texaslinuxfest.org/) | Austin, TX, USA | 
 
