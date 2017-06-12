@@ -4,30 +4,13 @@ A list of free software and IT security related conferences.
 
 | Name | Location | Start | End |
 | --- | --- | --- | --- |
-| [Augsburger Linux-Infotag](https://www.luga.de/Aktionen/LIT-2017/) | Augsburg, Germany | 2017-04-22 | 2017-04-22 |
-| [Norcon](http://norcon.info/) | Chico, USA | 2017-04-22 | 2017-04-22 |
-| [foss-north](http://foss-north.se/) | Gothenburg, Sweden | 2017-04-26 | 2017-04-26 |
-| [IEEE Euro S&P](http://www.ieee-security.org/TC/EuroSP2017/) | Paris, France | 2017-04-26 | 2017-04-28 |
-| [AtlSecCon](https://atlseccon.com/) | Halifax, Canada | 2017-04-27 | 2017-04-28 |
-| [RuhrSec](https://www.ruhrsec.de/) | Bochum, Germany | 2017-05-02 | 2017-05-05 |
-| [OSCON](https://conferences.oreilly.com/oscon/oscon-tx) | Austin/Texas, USA | 2017-05-08 | 2017-05-11 |
-| [AppSec EU](https://2017.appsec.eu/) | Belfast, UK | 2017-05-08 | 2017-05-11 |
-| [Hack In Paris](https://hackinparis.com/) | Paris, France | 2017-05-22 | 2017-05-23 |
-| [PHDays](http://www.phdays.com/) | Mosco, Russia | 2017-05-23 | 2017-05-24 |
-| [AusCERT](https://conference.auscert.org.au/) | Gold Goast, Australia | 2017-05-23 | 2017-05-26 |
-| [PGCon](https://www.pgcon.org/) | Ottawa, Canada | 2017-05-23 | 2017-05-26 |
-| [Nuit Du Hack](https://nuitduhack.com/en/) | Paris, France | 2017-05-24 | 2017-05-25 |
-| [GPN](https://entropia.de/GPN) | Karlsruhe, Germany | 2017-05-25 | 2017-05-28 |
-| [BerlinSides](http://berlinsides.org/) | Berlin, Germany | 2017-05-26 | 2017-05-28 |
-| [SyScan360](https://www.syscan360.org/) | Seattle, USA | 2017-05-30 | 2017-05-31 |
-| [Security Fest](https://www.securityfest.com/) | Gothenburg, Sweden | 2017-06-01 | 2017-06-01 |
-| [WarCon](http://warcon.pl/) | Warsaw, Poland | 2017-06-02 | 2017-06-03 |
-| [BSDCan](https://www.bsdcan.org/2017/) | Ottawa, Ontario, Canada | 2017-06-09 | 2017-06-10 |
 | [RECON 2017](https://recon.cx/2017/montreal/) | Montreal, Québec, Canada | 2017-06-16 | 2017-06-18 |
 | [CoSin](https://www.cosin.ch/) | Biel, Switzerland | 2017-06-16 | 2017-06-18 |
+| [MOSEC](http://en.mosec.org/) | Shanghai, China | 2017-06-23 | 2017-06-23 |
 | [PQCrypto](https://pqcrypto.org/) | Utrecht, Netherlands | 2017-06-26 | 2017-06-28 |
 | [Groden](https://openlab-augsburg.de/groden17/) | Peißenberg, Germany | 2017-06-30 | 2017-07-02 |
 | [RMLL](https://2017.rmll.info/) | Saint-Etienne, France | 2017-07-01 | 2017-07-07 |
+| [HackOn](https://hackon.nl/) | Amsterdam, Netherlands | 2017-07-14 | 2017-07-16 |
 | [ZeTeCo](https://wiki.zeteco.ch/) | Schaffhausen, Switzerland | 2017-07-21 | 2017-07-24 |
 | [Black Hat USA](https://www.blackhat.com/) | Las Vegas, USA | 2017-07-22 | 2017-07-27 |
 | [BSides LV](https://www.bsideslv.org/) | Las Vegas, USA | 2017-07-25 | 2017-07-26 |
@@ -41,6 +24,7 @@ A list of free software and IT security related conferences.
 | [AlligatorCon Europe](http://alligatorcon.pl/) | Krakow, Poland | 2017-08-25 | 2017-08-26 |
 | [Bornhack](https://bornhack.dk/) | Bornholm, Denmark | 2017-08-27 | 2017-09-03 |
 | [MRMCD](https://2017.mrmcd.net/) | Darmstadt, Germany | 2017-09-01 | 2017-09-03 |
+| [Hack Open Air](https://hackenopenair.de/) | Peine, Germany | 2017-09-07 | 2017-09-10 |
 | [vBSDcon](https://www.vbsdcon.com/) | Reston, Virginia, USA | 2017-09-08 | 2017-09-09 |
 | [44CON](https://44con.com/) | London, UK | 2017-09-13 | 2017-09-15 |
 | [SEC-T](https://www.sec-t.org/) | Stockholm, Sweden | 2017-09-14 | 2017-09-15 |
@@ -54,18 +38,23 @@ A list of free software and IT security related conferences.
 | [Hack.lu](http://hack.lu/) | Luxembourg City, Luxembourg | 2017-10-16 | 2017-10-19 |
 | [Datenspuren](https://www.datenspuren.de/) | Dresden, Germany | 2017-10-21 | 2017-10-22 |
 | [Ruxcon](https://ruxcon.org.au/) | Melbourne, Australia | 2017-10-21 | 2017-10-22 |
+| [MozFest](https://mozillafestival.org/) | London, UK | 2017-10-27 | 2017-10-29 |
 | [ACM CCS](https://www.sigsac.org/ccs/CCS2017/) | Dallas, USA | 2017-10-30 | 2017-11-03 |
+| [Hackfest](https://hackfest.ca/) | Quebec, Canada | 2017-10-31 | 2017-11-04 |
 | [Driving IT](https://universe.ida.dk/driving-it/) | Copenhagen, Denmark | 2017-11-03 | 2017-11-03 |
 | [OpenRheinRuhr](https://openrheinruhr.de/) | Oberhausen, Germany | 2017-11-04 | 2017-11-05 |
 | [Nordic IT Security](http://www.nordicitsecurity.com/) | Stockholm, Sweden | 2017-11-07 | 2017-11-07 |
 | [Øredev](http://oredev.org/) | Malmö, Sweden | 2017-11-06 | 2017-11-07 |
+| [https://grehack.fr/](GreHack) | Grenoble, France | 2017-11-17 | 2017-11-17 |
 | [T-DOSE](http://t-dose.org/) | Eindhoven, Netherlands | 2017-11-11 | 2017-11-12 |
+| [BlackAlphs](https://www.blackalps.ch/) | Yverdon-Les-Bains, Switzerland | 2017-11-15 | 2017-11-16 |
 | [Black Hat Europe](https://www.blackhat.com/) | London, UK | 2017-12-04 | 2017-12-07 |
 | [34C3](https://events.ccc.de/) | Leipzig, Germany | 2017-12-27 | 2017-12-30 |
 | [RealWorldCrypto](http://www.realworldcrypto.com/) | Zürich, Switzerland | 2018-01-10 | 2018-01-12 |
 | [linux.conf.au](https://lca2018.org/#/home) | Sydney, Australia | 2018-01-22 | 2018-01-26 |
 | [OffensiveCon](https://www.offensivecon.org/) | Berlin, Germany | 2018-02-12 | 2018-02-17 |
 | [dknog](http://dknog.dk/) | Copenhagen, Denmark | 2018-03-08 | 2018-03-09 |
+| [RuhrSec](https://www.ruhrsec.de/) | Bochum, Germany | 2018-05-17 | 2018-05-18 |
 | [USENIX Security Symposium](https://www.usenix.org/) | Baltimore, USA | 2018-08-15 | 2018-08-17 |
 
 Date unannounced
@@ -100,6 +89,25 @@ old
 | [newline](https://0x20.be/newline/2017/) | Ghent, Belgium | 2017-04-07 | 2017-04-09 |
 | [Hack in the Box](https://conference.hitb.org/) | Amsterdam, Netherlands | 2017-04-10 | 2017-04-14 |
 | [Easterhegg](http://www.easterhegg.eu/) | Frankfurt, Germany | 2017-04-14 | 2017-04-17 |
+| [Augsburger Linux-Infotag](https://www.luga.de/Aktionen/LIT-2017/) | Augsburg, Germany | 2017-04-22 | 2017-04-22 |
+| [Norcon](http://norcon.info/) | Chico, USA | 2017-04-22 | 2017-04-22 |
+| [foss-north](http://foss-north.se/) | Gothenburg, Sweden | 2017-04-26 | 2017-04-26 |
+| [IEEE Euro S&P](http://www.ieee-security.org/TC/EuroSP2017/) | Paris, France | 2017-04-26 | 2017-04-28 |
+| [AtlSecCon](https://atlseccon.com/) | Halifax, Canada | 2017-04-27 | 2017-04-28 |
+| [RuhrSec](https://www.ruhrsec.de/) | Bochum, Germany | 2017-05-02 | 2017-05-05 |
+| [OSCON](https://conferences.oreilly.com/oscon/oscon-tx) | Austin/Texas, USA | 2017-05-08 | 2017-05-11 |
+| [AppSec EU](https://2017.appsec.eu/) | Belfast, UK | 2017-05-08 | 2017-05-11 |
+| [Hack In Paris](https://hackinparis.com/) | Paris, France | 2017-05-22 | 2017-05-23 |
+| [PHDays](http://www.phdays.com/) | Mosco, Russia | 2017-05-23 | 2017-05-24 |
+| [AusCERT](https://conference.auscert.org.au/) | Gold Goast, Australia | 2017-05-23 | 2017-05-26 |
+| [PGCon](https://www.pgcon.org/) | Ottawa, Canada | 2017-05-23 | 2017-05-26 |
+| [Nuit Du Hack](https://nuitduhack.com/en/) | Paris, France | 2017-05-24 | 2017-05-25 |
+| [GPN](https://entropia.de/GPN) | Karlsruhe, Germany | 2017-05-25 | 2017-05-28 |
+| [BerlinSides](http://berlinsides.org/) | Berlin, Germany | 2017-05-26 | 2017-05-28 |
+| [SyScan360](https://www.syscan360.org/) | Seattle, USA | 2017-05-30 | 2017-05-31 |
+| [Security Fest](https://www.securityfest.com/) | Gothenburg, Sweden | 2017-06-01 | 2017-06-01 |
+| [WarCon](http://warcon.pl/) | Warsaw, Poland | 2017-06-02 | 2017-06-03 |
+| [BSDCan](https://www.bsdcan.org/2017/) | Ottawa, Ontario, Canada | 2017-06-09 | 2017-06-10 |
 
 The list is more or less arbitrary compiled from conferences I know and hear
 about. Naturally this means it has a strong bias towards events in central
