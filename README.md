@@ -55,6 +55,7 @@ A list of free software and IT security related conferences.
 | [OffensiveCon](https://www.offensivecon.org/) | Berlin, Germany | 2018-02-12 | 2018-02-17 |
 | [dknog](http://dknog.dk/) | Copenhagen, Denmark | 2018-03-08 | 2018-03-09 |
 | [RuhrSec](https://www.ruhrsec.de/) | Bochum, Germany | 2018-05-17 | 2018-05-18 |
+| [Area41](https://area41.io/) | Zürich, Switzerland | 2018-06-15 | 2018-06-16 |
 | [USENIX Security Symposium](https://www.usenix.org/) | Baltimore, USA | 2018-08-15 | 2018-08-17 |
 
 Date unannounced
