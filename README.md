@@ -19,6 +19,7 @@ A list of free software and IT security related conferences.
 | [Def Con](https://www.defcon.org/) | Las Vegas, USA | 2018-08-09 | 2017-08-12 |
 | [USENIX WOOT](https://www.usenix.org/conference/woot18) | Baltimore, USA | 2018-08-13 | 2018-08-14 |
 | [USENIX Security Symposium](https://www.usenix.org/) | Baltimore, USA | 2018-08-15 | 2018-08-17 |
+| [Hack.lu](https://hack.lu/) | Luxembourg City, Luxembourg | 2018-10-16 | 2018-10-18 |
 | [Black Hat Europe](https://www.blackhat.com/) | London, UK | 2018-12-03 | 2018-12-06 |
 | [Def Con](https://www.defcon.org/) | Las Vegas, USA | 2019-08-08 | 2019-08-11 |
 
