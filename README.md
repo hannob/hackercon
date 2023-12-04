@@ -2,37 +2,40 @@
 
 A list of free software and IT security related conferences.
 
+2024
+====
+
 | Name | Location | Start | End |
 | --- | --- | --- | --- |
-| [linux.conf.au](https://lca2018.org/#/home) | Sydney, Australia | 2018-01-22 | 2018-01-26 |
-| [FOSDEM](https://fosdem.org/2018/) | Brussels, Belgium | 2018-02-03 | 2018-02-04 |
-| [OffensiveCon](https://www.offensivecon.org/) | Berlin, Germany | 2018-02-12 | 2018-02-17 |
-| [Troopers](https://www.troopers.de/) | Heidelberg, Germany | 2018-03-14 | 2018-03-15 |
-| [dknog](https://dknog.dk/) | Copenhagen, Denmark | 2018-03-08 | 2018-03-09 |
-| [Chemnitzer Linux-Tage](https://chemnitzer.linux-tage.de/2018/en) | Chemnitz, Germany | 2018-03-10 | 2018-03-11 |
-| [Black Hat Asia](https://www.blackhat.com/) | Singapore, Singapore | 2018-03-22 | 2018-03-23 |
-| [foss-north](http://foss-north.se/) | Gothenbug, Sweden | 2018-04-23 | 2018-04-23 |
-| [RuhrSec](https://www.ruhrsec.de/) | Bochum, Germany | 2018-05-17 | 2018-05-18 |
-| [Security Fest](https://securityfest.com/) | Gothenburg, Sweden | 2018-06-01 | 2018-06-01 |
-| [Area41](https://area41.io/) | Zürich, Switzerland | 2018-06-15 | 2018-06-16 |
-| [Black Hat USA](https://www.blackhat.com/) | Las Vegas, USA | 2018-08-08 | 2018-08-09 |
-| [Def Con](https://www.defcon.org/) | Las Vegas, USA | 2018-08-09 | 2017-08-12 |
-| [USENIX WOOT](https://www.usenix.org/conference/woot18) | Baltimore, USA | 2018-08-13 | 2018-08-14 |
-| [USENIX Security Symposium](https://www.usenix.org/) | Baltimore, USA | 2018-08-15 | 2018-08-17 |
-| [DeepIntel](https://deepintel.net/) | Vienna, Austria | 2018-09-17 | 2018-09-18 |
-| [Hack.lu](https://hack.lu/) | Luxembourg City, Luxembourg | 2018-10-16 | 2018-10-18 |
-| [DeepSec](https://deepsec.net/) | Vienna, Austria | 2018-11-27 | 2018-11-30 |
-| [Black Hat Europe](https://www.blackhat.com/) | London, UK | 2018-12-03 | 2018-12-06 |
-| [Def Con](https://www.defcon.org/) | Las Vegas, USA | 2019-08-08 | 2019-08-11 |
+| [FOSDEM](https://fosdem.org/2024/) | Brussels, Belgium | 2024-02-03 | 2024-02-04 |
+| [dknog](https://dknog.dk/) | Copenhagen, Denmark | 2024-03-07 | 2024-03-08 |
+| [nullcon Berlin](https://nullcon.net/berlin-2024/) | Berlin, Germany | 2024-03-11 | 2024-03-13 |
+| [Chemnitzer Linux-Tage](https://chemnitzer.linux-tage.de/2024/en) | Chemnitz, Germany | 2024-03-16 | 2024-03-17 |
+| [Texas Linux Fest](https://www.texaslinuxfest.org/) | Austin, TX, USA | 2024-04-12 | 2024-04-13 |
+| [Black Hat Asia](https://www.blackhat.com/) | Singapore, Singapore | 2024-04-16 | 2024-04-19 |
+| [OffensiveCon](https://www.offensivecon.org/) | Berlin, Germany | 2024-05-10 | 2024-05-11 |
+| [Security Fest](https://securityfest.com/) | Gothenburg, Sweden | 2024-05-30 | 2024-05-31 |
+| [Area41](https://area41.io/) | Zürich, Switzerland | 2024-06-06 | 2024-06-07 |
+| [Troopers](https://troopers.de/) | Heidelberg, Germany | 2024-06-24 | 2024-06-28 |
+| [Black Hat USA](https://www.blackhat.com/) | Las Vegas, USA | 2024-08-03 | 2024-08-08 |
+| [Def Con](https://www.defcon.org/) | Las Vegas, USA | 2024-08-08 | 2024-08-11 |
+| [USENIX WOOT](https://www.usenix.org/conference/woot24) | Philadelphia, USA | 2024-08-12 | 2024-08-13 |
+| [USENIX Security Symposium](https://www.usenix.org/) | Philadelphia, USA | 2024-08-11 | 2024-08-13 |
+
+
 
 Date unannounced
 ================
 
 | Name | Location |
 | --- | --- |
-| [Kiwicon](https://www.kiwicon.org/) | Wellington, New Zealand |
-| [Secure 2017](https://secure.edu.pl/) | October, Warsaw, Germany |
-| [Texas Linux Fest](https://www.texaslinuxfest.org/) | Austin, TX, USA | 
+| [RuhrSec](https://www.ruhrsec.de/) | Bochum, Germany |
+| [DeepIntel](https://deepintel.net/) | Vienna, Austria |
+| [Hack.lu](https://hack.lu/) | Luxembourg City, Luxembourg |
+| [DeepSec](https://deepsec.net/) | Vienna, Austria |
+| [Black Hat Europe](https://www.blackhat.com/) | London, UK |
+| [Secure](https://secure.edu.pl/) | October, Warsaw, Germany |
+
 
 old
 ===
@@ -123,6 +126,27 @@ old
 | [Black Hat Europe](https://www.blackhat.com/) | London, UK | 2017-12-04 | 2017-12-07 |
 | [34C3](https://events.ccc.de/) | Leipzig, Germany | 2017-12-27 | 2017-12-30 |
 | [RealWorldCrypto](http://www.realworldcrypto.com/) | Zürich, Switzerland | 2018-01-10 | 2018-01-12 |
+| [linux.conf.au](https://lca2018.org/#/home) | Sydney, Australia | 2018-01-22 | 2018-01-26 |
+| [FOSDEM](https://fosdem.org/2018/) | Brussels, Belgium | 2018-02-03 | 2018-02-04 |
+| [OffensiveCon](https://www.offensivecon.org/) | Berlin, Germany | 2018-02-12 | 2018-02-17 |
+| [Troopers](https://www.troopers.de/) | Heidelberg, Germany | 2018-03-14 | 2018-03-15 |
+| [dknog](https://dknog.dk/) | Copenhagen, Denmark | 2018-03-08 | 2018-03-09 |
+| [Chemnitzer Linux-Tage](https://chemnitzer.linux-tage.de/2018/en) | Chemnitz, Germany | 2018-03-10 | 2018-03-11 |
+| [Black Hat Asia](https://www.blackhat.com/) | Singapore, Singapore | 2018-03-22 | 2018-03-23 |
+| [foss-north](http://foss-north.se/) | Gothenbug, Sweden | 2018-04-23 | 2018-04-23 |
+| [RuhrSec](https://www.ruhrsec.de/) | Bochum, Germany | 2018-05-17 | 2018-05-18 |
+| [Security Fest](https://securityfest.com/) | Gothenburg, Sweden | 2018-06-01 | 2018-06-01 |
+| [Area41](https://area41.io/) | Zürich, Switzerland | 2018-06-15 | 2018-06-16 |
+| [Black Hat USA](https://www.blackhat.com/) | Las Vegas, USA | 2018-08-08 | 2018-08-09 |
+| [Def Con](https://www.defcon.org/) | Las Vegas, USA | 2018-08-09 | 2017-08-12 |
+| [USENIX WOOT](https://www.usenix.org/conference/woot18) | Baltimore, USA | 2018-08-13 | 2018-08-14 |
+| [USENIX Security Symposium](https://www.usenix.org/) | Baltimore, USA | 2018-08-15 | 2018-08-17 |
+| [DeepIntel](https://deepintel.net/) | Vienna, Austria | 2018-09-17 | 2018-09-18 |
+| [Hack.lu](https://hack.lu/) | Luxembourg City, Luxembourg | 2018-10-16 | 2018-10-18 |
+| [DeepSec](https://deepsec.net/) | Vienna, Austria | 2018-11-27 | 2018-11-30 |
+| [Black Hat Europe](https://www.blackhat.com/) | London, UK | 2018-12-03 | 2018-12-06 |
+| [Def Con](https://www.defcon.org/) | Las Vegas, USA | 2019-08-08 | 2019-08-11 |
+
 
 The list is more or less arbitrary compiled from conferences I know and hear
 about. Naturally this means it has a strong bias towards events in central
